@@ -1,4 +1,4 @@
-﻿=== wp-codec-cn ===
+﻿=== star-ganalytics ===
 Contributors: star
 Tags: analytics, google, green, software, plugin
 Requires at least: 2.8.4
